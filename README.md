@@ -2,7 +2,9 @@
 <img src="https://github.com/user-attachments/assets/9b9d6aa6-6cb0-4a87-9370-984a074e97ff" width="25%">
 
 ## Introduction
-Rivals Tracker is an iOS application for people who play the multiplayer game Marvel Rivals. Rivals Tracker offers the following core functionalities:
+This is the promotional page for Rivals Tracker, an iOS application for people who play the multiplayer game Marvel Rivals. The source code for this application is in a private repository, to view the source code you may contact me directly.
+
+## Core Functionalities:
 
 - Search players by name
 - Tap on player search results / saved players to get an overview of their competitive statistics  
