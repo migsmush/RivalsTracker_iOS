@@ -4,25 +4,17 @@
 ## Introduction
 Rivals Tracker is an iOS application for people who play the multiplayer game Marvel Rivals. Rivals Tracker offers the following core functionalities:
 
-- Search players by name  
-
-  <img src="https://github.com/user-attachments/assets/1829e38a-3b52-422f-8f93-22b956182f33" width="25%">
-
+- Search players by name
 - Tap on player search results / saved players to get an overview of their competitive statistics  
-- View the rank progression of a player  
-
-  <img src="https://github.com/user-attachments/assets/970f2104-4cdf-4276-a5dc-56999b368e46" width="25%">
-
+- View the rank progression of a player
 - Save to a list of players to track their rank progression and change  
-
-  <img src="https://github.com/user-attachments/assets/4aaa2028-fa7f-4b85-b6cf-c320cede440f" width="25%">
-
 - Filter competitive matches by hero, role, map, game mode, or mvp  
-
-  <img src="https://github.com/user-attachments/assets/192d5777-a56f-4a91-9a4c-cd7cfe3a328c" width="25%">
-
 - Swipe right on two saved players to compare stats between two players  
 
+  <img src="https://github.com/user-attachments/assets/1829e38a-3b52-422f-8f93-22b956182f33" width="25%">
+  <img src="https://github.com/user-attachments/assets/970f2104-4cdf-4276-a5dc-56999b368e46" width="25%">
+  <img src="https://github.com/user-attachments/assets/4aaa2028-fa7f-4b85-b6cf-c320cede440f" width="25%">
+  <img src="https://github.com/user-attachments/assets/192d5777-a56f-4a91-9a4c-cd7cfe3a328c" width="25%">
   <img src="https://github.com/user-attachments/assets/e759b4f4-b2f6-47d3-94e5-005fd5610e4e" width="25%">
 
 - Snap a photo of a team during the competitive loading screen to quickly fetch a list of profiles before loading into a match  
